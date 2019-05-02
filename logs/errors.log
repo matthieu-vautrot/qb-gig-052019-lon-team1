@@ -1,0 +1,768 @@
+2019-04-02 15:00:04,127 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:00:04,129 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:00:04,130 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:00:04,131 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 15:02:49,629 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:02:49,630 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:02:49,631 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:02:49,633 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 15:04:04,777 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:04:04,779 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:04:04,780 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:04:04,781 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 15:05:57,145 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:05:57,147 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:05:57,148 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:05:57,149 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 15:09:56,692 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:09:56,694 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:09:56,695 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:09:56,696 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 15:09:59,789 - root - ERROR - KernelAI's ipython session startup script failed:
+Type `xls_dataset` of DataSet 'raw_aftcr_event' not found in module `kernelai.io`.
+2019-04-02 15:10:18,502 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:10:18,504 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:10:18,505 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:10:18,506 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 15:10:20,624 - root - ERROR - KernelAI's ipython session startup script failed:
+Type `xls_dataset` of DataSet 'raw_aftcr_event' not found in module `kernelai.io`.
+2019-04-02 15:10:39,805 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:10:39,806 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:10:39,807 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:10:39,809 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 15:12:26,972 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:12:26,974 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:12:26,975 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:12:26,977 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 15:12:30,133 - root - ERROR - KernelAI's ipython session startup script failed:
+Type `XlsLocalDataSet` of DataSet 'raw_aftcr_event' not found in module `kernelai.io`.
+2019-04-02 15:12:44,428 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:12:44,430 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:12:44,431 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:12:44,432 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 15:12:46,641 - root - ERROR - KernelAI's ipython session startup script failed:
+Type `XlsLocalDataSet` of DataSet 'raw_aftcr_event' not found in module `kernelai.io`.
+2019-04-02 15:13:02,735 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:13:02,736 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:13:02,737 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:13:02,739 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 15:13:04,898 - root - ERROR - KernelAI's ipython session startup script failed:
+Type `XlsLocalDataSet` of DataSet 'raw_aftcr_event' not found in module `kernelai.io`.
+2019-04-02 15:13:15,192 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:13:15,193 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:13:15,194 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:13:15,196 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 15:13:17,235 - root - ERROR - KernelAI's ipython session startup script failed:
+Type `XlsLocalDataSet` of DataSet 'raw_aftcr_event' not found in module `kernelai.io`.
+2019-04-02 15:14:31,256 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:14:31,258 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:14:31,258 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:14:31,260 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 15:14:33,338 - root - ERROR - KernelAI's ipython session startup script failed:
+Type `XlsLocalDataSet` of DataSet 'raw_aftcr_event' not found in module `kernelai.io`.
+2019-04-02 15:15:15,549 - root - ERROR - KernelAI's ipython session startup script failed:
+Type `XlsLocalDataSet` of DataSet 'raw_aftcr_event' not found in module `kernelai.io`.
+2019-04-02 15:23:52,800 - root - ERROR - KernelAI's ipython session startup script failed:
+Type `XlsLocalDataSet` of DataSet 'raw_aftcr_event' not found in module `kernelai.io`.
+2019-04-02 15:24:09,003 - root - ERROR - KernelAI's ipython session startup script failed:
+Type `XlsLocalDataSet` of DataSet 'raw_aftcr_event' not found in module `kernelai.io`.
+2019-04-02 15:27:09,541 - root - ERROR - KernelAI's ipython session startup script failed:
+Cannot import module `project_irene.de_utils.xls_local` when trying to load type `XlsLocalDataSet` for DataSet 'raw_aftcr_event'.
+2019-04-02 15:29:24,506 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:29:24,507 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:29:24,508 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:29:24,510 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 15:29:53,569 - root - ERROR - KernelAI's ipython session startup script failed:
+Cannot import module `project_irene.de_utils.xls_local` when trying to load type `XlsLocalDataSet` for DataSet 'raw_aftcr_event'.
+2019-04-02 15:40:53,821 - root - ERROR - KernelAI's ipython session startup script failed:
+Type `XlsLocalDataSet` of DataSet 'raw_aftcr_event' not found in module `kernelai.io`.
+2019-04-02 15:46:43,894 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:46:43,895 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:46:43,897 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:46:43,898 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 15:46:47,203 - root - ERROR - KernelAI's ipython session startup script failed:
+Cannot import module `project_irene.de_utils.xls_local` when trying to load type `XlsLocalDataSet` for DataSet 'raw_aftcr_event'.
+2019-04-02 15:46:58,288 - root - ERROR - KernelAI's ipython session startup script failed:
+Cannot import module `project_irene.de_utils.xls_local` when trying to load type `XlsLocalDataSet` for DataSet 'raw_aftcr_event'.
+2019-04-02 15:51:56,738 - root - ERROR - KernelAI's ipython session startup script failed:
+Cannot import module `project_irene.de_utils.xls_local` when trying to load type `XlsLocalDataSet` for DataSet 'raw_aftcr_event'.
+2019-04-02 15:55:44,088 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 15:55:44,095 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 15:55:44,097 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 15:55:44,098 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 16:58:19,999 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 16:58:20,004 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 16:58:20,005 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 16:58:20,006 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 17:10:12,869 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 17:10:12,871 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 17:10:12,872 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 17:10:12,873 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 17:10:15,946 - root - ERROR - KernelAI's ipython session startup script failed:
+name 'get_catalog_irene' is not defined
+2019-04-02 17:10:16,169 - root - ERROR - KernelAI's ipython session startup script failed:
+name 'get_catalog_irene' is not defined
+2019-04-02 17:11:11,151 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 17:11:11,153 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 17:11:11,154 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 17:11:11,155 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 17:11:14,231 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:11:14,465 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:12:00,072 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:12:53,945 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:15:40,031 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:17:06,299 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:17:11,013 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 17:17:11,015 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 17:17:11,016 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 17:17:11,017 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 17:17:14,378 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:17:14,641 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:17:40,645 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:17:48,194 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 17:17:48,195 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 17:17:48,197 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 17:17:48,198 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 17:20:56,240 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 17:20:56,243 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 17:20:56,245 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 17:20:56,246 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 17:25:19,686 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 17:25:19,687 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 17:25:19,689 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 17:25:19,690 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 17:27:08,246 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 17:27:08,248 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 17:27:08,249 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 17:27:08,250 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 17:31:29,373 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 17:31:29,374 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 17:31:29,376 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 17:31:29,377 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 17:31:31,609 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:31:31,886 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:32:18,933 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:32:41,065 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:33:14,464 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:34:25,649 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:36:21,053 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:36:36,708 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:36:40,898 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 17:36:40,899 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 17:36:40,900 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 17:36:40,902 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 17:36:43,470 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:36:43,665 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:37:40,069 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 17:37:40,072 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 17:37:40,073 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 17:37:40,075 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 17:43:51,901 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 17:43:51,902 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 17:43:51,904 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 17:43:51,905 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 17:45:12,026 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 17:45:12,027 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 17:45:12,028 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 17:45:12,029 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 17:45:14,872 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:45:15,122 - root - ERROR - KernelAI's ipython session startup script failed:
+No files found matching the specified glob pattern(s).
+2019-04-02 17:46:44,650 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 17:46:44,652 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 17:46:44,653 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 17:46:44,654 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 17:46:47,008 - root - ERROR - KernelAI's ipython session startup script failed:
+'module' object is not callable
+2019-04-02 17:46:47,252 - root - ERROR - KernelAI's ipython session startup script failed:
+'module' object is not callable
+2019-04-02 17:55:03,796 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 17:55:03,799 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 17:55:03,800 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 17:55:03,801 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 18:02:39,508 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 18:02:39,510 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 18:02:39,511 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 18:02:39,512 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 18:03:07,156 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 18:03:07,158 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 18:03:07,159 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 18:03:07,160 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 18:05:47,547 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 18:05:47,549 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 18:05:47,550 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 18:05:47,551 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 18:07:14,216 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 18:07:14,219 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 18:07:14,220 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 18:07:14,221 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 18:09:18,876 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 18:09:18,878 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 18:09:18,879 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 18:09:18,880 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-02 18:10:41,003 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-02 18:10:41,005 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-02 18:10:41,006 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-02 18:10:41,007 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-03 11:02:54,861 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-03 11:02:54,865 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-03 11:02:54,866 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-03 11:02:54,867 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-03 11:09:59,058 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-03 11:09:59,062 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-03 11:09:59,064 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-03 11:09:59,065 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-03 11:25:59,681 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-03 11:25:59,686 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-03 11:25:59,687 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-03 11:25:59,688 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-03 14:04:33,117 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-03 14:04:33,119 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-03 14:04:33,121 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-03 14:04:33,121 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-04 10:14:02,866 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-04 10:14:02,869 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-04 10:14:02,870 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-04 10:14:02,871 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-04 10:44:44,587 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-04 10:44:44,592 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-04 10:44:44,593 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-04 10:44:44,594 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-04 11:43:33,897 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-04 11:43:33,900 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-04 11:43:33,901 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-04 11:43:33,902 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-04 11:43:35,035 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-04 11:43:35,038 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-04 11:43:35,039 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-04 11:43:35,041 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-04 11:55:36,627 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-04 11:55:36,629 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-04 11:55:36,630 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-04 11:55:36,632 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-04 12:01:44,586 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-04 12:01:44,597 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-04 12:01:44,599 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-04 12:01:44,600 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-04 12:08:39,782 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-04 12:08:39,783 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-04 12:08:39,784 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-04 12:08:39,785 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-04 12:33:13,493 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-04 12:33:13,501 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-04 12:33:13,503 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-04 12:33:13,504 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-05 09:37:36,239 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-05 09:37:36,241 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-05 09:37:36,242 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-05 09:37:36,243 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-05 13:14:27,105 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-05 13:14:27,108 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-05 13:14:27,109 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-05 13:14:27,110 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-05 13:14:30,626 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-05 13:14:30,628 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-05 13:14:30,629 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-05 13:14:30,630 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-08 15:08:59,180 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-08 15:08:59,182 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-08 15:08:59,183 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-08 15:08:59,185 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-09 11:04:42,880 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-09 11:04:42,882 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-09 11:04:42,882 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-09 11:04:42,883 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-10 10:14:24,576 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-10 10:14:24,580 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-10 10:14:24,582 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-10 10:14:24,584 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-10 11:12:30,461 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-10 11:12:30,474 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-10 11:12:30,476 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-10 11:12:30,477 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-10 11:12:31,802 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-10 11:12:31,804 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-10 11:12:31,805 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-10 11:12:31,806 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-10 11:12:49,424 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-10 11:12:49,425 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-10 11:12:49,426 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-10 11:12:49,427 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-10 11:22:26,028 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-10 11:22:26,032 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-10 11:22:26,033 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-10 11:22:26,035 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 11:15:37,562 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 11:15:37,565 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 11:15:37,566 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 11:15:37,567 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 11:23:43,576 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 11:23:43,578 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 11:23:43,580 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 11:23:43,581 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 11:45:24,205 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 11:45:24,211 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 11:45:24,212 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 11:45:24,214 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 11:45:29,127 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 11:45:29,129 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 11:45:29,130 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 11:45:29,131 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 11:45:33,895 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 11:45:33,897 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 11:45:33,898 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 11:45:33,899 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 11:46:11,942 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 11:46:11,944 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 11:46:11,946 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 11:46:11,947 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 11:46:33,273 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 11:46:33,275 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 11:46:33,276 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 11:46:33,277 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 11:46:50,881 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 11:46:50,883 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 11:46:50,884 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 11:46:50,885 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 14:54:44,389 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 14:54:44,398 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 14:54:44,400 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 14:54:44,401 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 15:00:33,288 - kernelai.pipeline.node - ERROR - Node `int_demographics: int_demographics([raw_aftcr_partic_demographics]) -> [int_demographics]` failed with error: 
+name 'clean_pandas_columns_names' is not defined
+2019-04-11 15:02:08,951 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 15:02:08,953 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 15:02:08,954 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 15:02:08,955 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 15:03:40,714 - kernelai.pipeline.node - ERROR - Node `int_events: int_events([raw_events_domain,raw_events_type_by_domain]) -> [int_events]` failed with error: 
+"['Exist'] not found in axis"
+2019-04-11 15:26:16,138 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 15:26:16,142 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 15:26:16,144 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 15:26:16,146 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 15:39:44,425 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 15:39:44,434 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 15:39:44,436 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 15:39:44,437 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 15:39:55,468 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 15:39:55,470 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 15:39:55,471 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 15:39:55,472 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 16:11:24,194 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 16:11:24,197 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 16:11:24,198 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 16:11:24,199 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 16:11:40,762 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 16:11:40,763 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 16:11:40,765 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 16:11:40,766 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 16:12:36,301 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 16:12:36,302 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 16:12:36,304 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 16:12:36,305 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 16:14:23,586 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 16:14:23,588 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 16:14:23,589 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 16:14:23,591 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 16:14:36,378 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 16:14:36,380 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 16:14:36,381 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 16:14:36,382 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 16:20:45,805 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 16:20:45,807 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 16:20:45,808 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 16:20:45,809 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 16:21:26,891 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 16:21:26,893 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 16:21:26,894 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 16:21:26,896 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-11 16:26:25,100 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-11 16:26:25,110 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-11 16:26:25,112 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-11 16:26:25,113 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-12 10:28:52,013 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-12 10:28:52,016 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-12 10:28:52,018 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-12 10:28:52,019 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-12 10:32:01,589 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-12 10:32:01,590 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-12 10:32:01,591 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-12 10:32:01,592 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-12 10:33:10,570 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-12 10:33:10,573 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-12 10:33:10,574 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-12 10:33:10,576 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-15 13:05:59,608 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-15 13:05:59,612 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-15 13:05:59,613 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-15 13:05:59,614 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-15 15:54:36,577 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-15 15:54:36,580 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-15 15:54:36,582 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-15 15:54:36,583 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-15 16:56:43,510 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-15 16:56:43,519 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-15 16:56:43,521 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-15 16:56:43,522 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-15 16:56:51,742 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-15 16:56:51,745 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-15 16:56:51,746 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-15 16:56:51,747 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-15 16:56:55,298 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-15 16:56:55,299 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-15 16:56:55,300 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-15 16:56:55,301 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-16 12:38:11,218 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-16 12:38:11,221 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-16 12:38:11,223 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-16 12:38:11,224 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-16 12:40:48,179 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-16 12:40:48,187 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-16 12:40:48,188 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-16 12:40:48,189 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-16 12:41:47,025 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-16 12:41:47,027 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-16 12:41:47,028 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-16 12:41:47,029 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-16 15:26:50,693 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-16 15:26:50,697 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-16 15:26:50,699 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-16 15:26:50,700 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-16 15:41:42,941 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-16 15:41:42,946 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-16 15:41:42,947 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-16 15:41:42,949 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-16 16:38:53,678 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-16 16:38:53,689 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-16 16:38:53,690 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-16 16:38:53,691 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-16 16:39:32,264 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-16 16:39:32,266 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-16 16:39:32,267 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-16 16:39:32,267 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-16 17:10:24,115 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-16 17:10:24,120 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-16 17:10:24,121 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-16 17:10:24,123 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-16 18:50:51,391 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-16 18:50:51,401 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-16 18:50:51,402 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-16 18:50:51,403 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-16 18:51:41,308 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-16 18:51:41,310 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-16 18:51:41,311 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-16 18:51:41,312 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-17 09:33:19,476 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-17 09:33:19,481 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-17 09:33:19,482 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-17 09:33:19,483 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-17 14:33:12,311 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-17 14:33:12,314 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-17 14:33:12,314 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-17 14:33:12,315 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-17 14:33:21,934 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-17 14:33:21,936 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-17 14:33:21,937 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-17 14:33:21,938 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-17 14:33:23,994 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-17 14:33:23,996 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-17 14:33:23,997 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-17 14:33:23,998 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-17 15:01:05,185 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-17 15:01:05,189 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-17 15:01:05,191 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-17 15:01:05,192 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-17 15:01:23,216 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-17 15:01:23,217 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-17 15:01:23,218 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-17 15:01:23,219 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-17 15:01:50,451 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-17 15:01:50,453 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-17 15:01:50,454 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-17 15:01:50,455 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-18 11:21:47,223 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-18 11:21:47,231 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-18 11:21:47,233 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-18 11:21:47,234 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-18 11:22:32,178 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-18 11:22:32,180 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-18 11:22:32,181 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-18 11:22:32,182 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-18 11:25:43,226 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-18 11:25:43,227 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-18 11:25:43,228 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-18 11:25:43,230 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-18 11:29:16,549 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-18 11:29:16,553 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-18 11:29:16,554 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-18 11:29:16,555 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-18 11:35:01,506 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-18 11:35:01,508 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-18 11:35:01,510 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-18 11:35:01,511 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-18 11:36:55,248 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-18 11:36:55,251 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-18 11:36:55,252 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-18 11:36:55,254 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-18 11:41:42,993 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-18 11:41:42,997 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-18 11:41:42,998 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-18 11:41:42,999 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-19 08:41:54,889 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-19 08:41:54,892 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-19 08:41:54,893 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-19 08:41:54,894 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-19 08:51:19,843 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-19 08:51:19,844 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-19 08:51:19,846 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-19 08:51:19,847 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-19 09:00:36,759 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-19 09:00:36,761 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-19 09:00:36,762 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-19 09:00:36,764 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-19 09:58:19,932 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-19 09:58:19,934 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-19 09:58:19,935 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-19 09:58:19,936 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-21 17:53:44,281 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-21 17:53:44,284 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-21 17:53:44,285 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-21 17:53:44,286 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-21 17:55:57,377 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-21 17:55:57,380 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-21 17:55:57,380 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-21 17:55:57,382 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-21 17:56:27,751 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-21 17:56:27,753 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-21 17:56:27,754 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-21 17:56:27,755 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-21 18:51:58,222 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-21 18:51:58,225 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-21 18:51:58,227 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-21 18:51:58,228 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-21 18:53:46,458 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-21 18:53:46,463 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-21 18:53:46,464 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-21 18:53:46,466 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 10:02:06,795 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 10:02:06,798 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 10:02:06,799 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 10:02:06,800 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 10:02:23,602 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 10:02:23,603 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 10:02:23,604 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 10:02:23,605 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 10:30:56,451 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 10:30:56,453 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 10:30:56,454 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 10:30:56,455 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 10:41:40,408 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 10:41:40,415 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 10:41:40,417 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 10:41:40,419 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 10:58:38,818 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 10:58:38,820 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 10:58:38,821 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 10:58:38,823 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:02:00,426 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:02:00,428 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:02:00,429 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:02:00,430 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:02:30,113 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:02:30,115 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:02:30,116 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:02:30,117 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:03:36,565 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:03:36,567 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:03:36,568 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:03:36,570 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:03:39,171 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:03:39,173 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:03:39,175 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:03:39,176 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:03:41,689 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:03:41,691 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:03:41,692 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:03:41,693 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:03:44,260 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:03:44,261 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:03:44,262 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:03:44,263 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:03:46,955 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:03:46,956 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:03:46,957 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:03:46,957 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:03:53,319 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:03:53,322 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:03:53,323 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:03:53,326 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:05:33,626 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:05:33,629 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:05:33,631 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:05:33,632 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:07:31,191 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:07:31,194 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:07:31,195 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:07:31,196 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:16:32,314 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:16:32,318 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:16:32,319 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:16:32,320 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:16:35,521 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:16:35,523 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:16:35,524 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:16:35,525 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:16:38,459 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:16:38,461 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:16:38,462 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:16:38,463 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:17:29,236 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:17:29,238 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:17:29,239 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:17:29,240 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:23:02,260 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:23:02,267 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:23:02,268 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:23:02,269 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:39:51,626 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:39:51,630 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:39:51,631 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:39:51,632 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:41:39,740 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:41:39,743 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:41:39,744 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:41:39,745 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:43:23,601 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:43:23,602 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:43:23,604 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:43:23,605 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 11:59:00,985 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 11:59:00,992 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 11:59:00,992 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 11:59:00,994 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 12:04:15,873 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 12:04:15,878 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 12:04:15,879 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 12:04:15,880 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 12:43:55,608 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 12:43:55,613 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 12:43:55,615 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 12:43:55,616 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 12:44:04,833 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 12:44:04,835 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 12:44:04,836 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 12:44:04,836 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 12:44:05,837 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 12:44:05,839 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 12:44:05,840 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 12:44:05,841 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-23 18:36:45,772 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-23 18:36:45,775 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-23 18:36:45,777 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-23 18:36:45,778 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-25 11:00:28,801 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-25 11:00:28,805 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-25 11:00:28,807 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-25 11:00:28,808 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-29 18:58:57,386 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-29 18:58:57,390 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-29 18:58:57,391 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-29 18:58:57,392 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-29 20:28:49,080 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-29 20:28:49,085 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-29 20:28:49,086 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-29 20:28:49,087 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-29 21:12:05,557 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-29 21:12:05,567 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-29 21:12:05,569 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-29 21:12:05,570 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-29 21:41:30,783 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-29 21:41:30,787 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-29 21:41:30,789 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-29 21:41:30,790 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-29 22:58:19,515 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-29 22:58:19,518 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-29 22:58:19,519 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-29 22:58:19,520 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-30 01:28:57,340 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-30 01:28:57,345 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-30 01:28:57,347 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-30 01:28:57,348 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-30 01:29:01,304 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-30 01:29:01,307 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-30 01:29:01,308 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-30 01:29:01,309 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-30 01:29:02,314 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-30 01:29:02,316 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-30 01:29:02,317 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-30 01:29:02,318 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-30 01:29:03,081 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-30 01:29:03,084 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-30 01:29:03,085 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-30 01:29:03,086 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-30 01:29:05,543 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-30 01:29:05,546 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-30 01:29:05,547 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-30 01:29:05,548 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-30 01:29:45,140 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-30 01:29:45,142 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-30 01:29:45,144 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-30 01:29:45,144 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-30 01:34:43,785 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-04-30 01:34:43,793 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-04-30 01:34:43,794 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-04-30 01:34:43,795 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-05-02 04:35:38,922 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-05-02 04:35:38,925 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-05-02 04:35:38,926 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-05-02 04:35:38,927 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-05-02 05:50:34,654 - kernelai.pipeline.node - ERROR - Node `get_prm_events: get_prm_events([prm_input_events]) -> [prm_events]` failed with error: 
+get_prm_events() missing 1 required positional argument: 'int_events'
+2019-05-02 05:56:33,521 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-05-02 05:56:33,525 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-05-02 05:56:33,527 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-05-02 05:56:33,529 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-05-02 11:30:15,263 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-05-02 11:30:15,272 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-05-02 11:30:15,273 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-05-02 11:30:15,274 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-05-02 11:41:18,459 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-05-02 11:41:18,461 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-05-02 11:41:18,462 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-05-02 11:41:18,463 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-05-02 11:48:45,172 - kernelai.pipeline.node - ERROR - Node `get_model_input: get_model_input([ft_aso,ft_clo_1278d_AI,ft_clo_1460d_AI,ft_clo_456d_AI,ft_clo_912d_AI,ft_demographics,ft_events,ft_journey_clusters,ft_services]) -> [model_input]` failed with error: 
+get_model_input() missing 1 required positional argument: 'prm_target'
+2019-05-02 11:49:43,719 - kernelai.pipeline.node - ERROR - Node `get_model_input: get_model_input([ft_aso,ft_clo_1278d_AI,ft_clo_1460d_AI,ft_clo_456d_AI,ft_clo_912d_AI,ft_demographics,ft_events,ft_journey_clusters,ft_services]) -> [model_input]` failed with error: 
+get_model_input() missing 1 required positional argument: 'prm_target'
+2019-05-02 17:13:28,680 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-05-02 17:13:28,682 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-05-02 17:13:28,683 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-05-02 17:13:28,684 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-05-02 18:21:05,761 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-05-02 18:21:05,765 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2019-05-02 18:21:05,765 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2019-05-02 18:21:05,766 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2019-05-02 18:26:39,033 - kernelai.pipeline.node - ERROR - Node `get_model_input: get_model_input([ft_aso,ft_clo_1278d_AI,ft_clo_1460d_AI,ft_clo_456d_AI,ft_clo_912d_AI,ft_demographics,ft_events,ft_journey_clusters,ft_services,prm_target]) -> [model_input]` failed with error: 
+"['target'] not found in axis"
+2019-05-02 19:57:14,053 - kernelai.pipeline.node - ERROR - Node `get_ft_events: get_ft_events([prm_events]) -> [ft_events]` failed with error: 
+'domain_of_care'

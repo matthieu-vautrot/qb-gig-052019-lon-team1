@@ -1,0 +1,5 @@
+2019-04-02 15:15:15,506 - root - INFO - ** KernelAI project project_irene
+2019-04-02 15:15:15,508 - anyconfig - INFO - Loading: /Users/anmisha_ramidi/Git/nobel_intelligence/project_irene/conf/base/logging.yaml
+2019-04-02 15:15:15,519 - anyconfig - INFO - Loading: /Users/anmisha_ramidi/Git/nobel_intelligence/project_irene/conf/base/catalog.yml
+2019-04-02 15:15:15,543 - anyconfig - INFO - Loading: /Users/anmisha_ramidi/Git/nobel_intelligence/project_irene/conf/base/credentials.yml
+2019-04-02 15:15:15,545 - anyconfig - INFO - Loading: /Users/anmisha_ramidi/Git/nobel_intelligence/project_irene/conf/base/parameters.yml

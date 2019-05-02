@@ -1,0 +1,293 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in the kernelai docs under `Accessing data`
+# You can access the kernelai docs by running `kernelai docs`
+#
+
+raw_aftcr_event:
+  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+  filepath: "data/01_raw/IJM Data_Aftercare Data by Event.xlsx"
+  load_args:
+    sheet_name: "Events by Case (Participant (2"
+
+raw_aftcr_partic_demographics:
+  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+  filepath: "data/01_raw/IJM Data_Aftercare Participant Demographics.xlsx"
+  load_args:
+    sheet_name: "IJM Data_Demographics"
+
+raw_aftcr_partic_service:
+  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+  filepath: "data/01_raw/IJM Data_Aftercare Service Data by Participant.xlsx"
+  load_args:
+    sheet_name: "IJM Data_Aftercare Services"
+
+raw_aftcr_partic_service_new:
+  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+  filepath: "data/01_raw/IJM Data_Aftercare Service Data_Treatment Plan Based Services.xlsx"
+  load_args:
+    sheet_name: "IJM Data_Aftercare Services_TP"
+
+
+raw_aftcr_partic_aso_assmt:
+  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+  filepath: "data/01_raw/IJM Data_ASO Data by Participant.xlsx"
+  load_args:
+    sheet_name: "IJM Data_ASO Assmt Data"
+
+raw_aftcr_partic_aso_domain:
+  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+  filepath: "data/01_raw/IJM Data_ASO Data by Participant.xlsx"
+  load_args:
+    sheet_name: "IJM Data_ASO Domain Data"
+
+raw_aftcr_partic_aso_assmt_2018:
+  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+  filepath: "data/01_raw/IJM Data_ASO Data by Participant 2018.xlsx"
+  load_args:
+    sheet_name: "IJM Data_ASO Assmt Data 2018"
+
+raw_aftcr_partic_aso_domain_2018:
+  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+  filepath: "data/01_raw/IJM Data_ASO Data by Participant 2018.xlsx"
+  load_args:
+    sheet_name: "IJM Data_ASO Domain Data 2018"
+
+raw_perpetrators:
+  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+  filepath: "data/01_raw/IJM Data_Suspected Perpetrators Data.xlsx"
+  load_args:
+    sheet_name: "IJMData_Susp Perpetrator Data"
+
+
+#
+#raw_aftcr_partic_needs_demographic: (maybe)
+#  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+#  filepath: "data/01_raw/IJM Data_Aftercare Participant Needs Assessment Data.xlsx"
+#  load_args:
+#    sheet_name: "IJMData_ParticipantDemographics"
+#
+#raw_aftcr_partic_needs_tpna: (maybe)
+#  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+#  filepath: "data/01_raw/IJM Data_Aftercare Participant Needs Assessment Data.xlsx"
+#  load_args:
+#    sheet_name: "IJMData_TPNAParticipants"
+#
+#raw_aftcr_partic_needs_2: (maybe)
+#  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+#  filepath: "data/01_raw/IJM Data_Aftercare Participant Needs Assessment Data 2.xlsx"
+#  load_args:
+#    sheet_name: "IJMData_NeedsAssessmentDetail"
+
+
+# GROUPINGS
+#raw_grp_case_types:
+#  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+#  filepath: "data/groupings/case_types.xlsx"
+#  load_args:
+#    sheet_name: "Sheet1"
+#
+#
+#raw_grp_date_order_labels:
+#  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+#  filepath: "data/groupings/Date order labels.xlsx"
+#  load_args:
+#    sheet_name: "Sheet1"
+
+
+raw_grp_event_type_mapping:
+  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+  filepath: "data/01_raw/Event type mapping v6.xlsx"
+  load_args:
+    sheet_name: "Domain and type"
+
+#raw_grp_aso_forms_mapping:
+#  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+#  filepath: "data/groupings/Form 2 to 3 ASO domain mapping v1.xlsx"
+#  load_args:
+#    sheet_name: "Sheet2"
+#
+#raw_grp_events_domain:
+#  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+#  filepath: "data/groupings/IJM Data_Event Domains.xlsx"
+#  load_args:
+#    sheet_name: "IJMData_Event Domains"
+
+#
+#raw_grp_na_ques_answer:
+#  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+#  filepath: "data/groupings/Needs Assessment Question and Answer Consolidation v5.xlsx"
+#  load_args:
+#    sheet_name: "New Q and A"
+#
+#raw_grp_na_questions:
+#  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+#  filepath: "data/groupings/Needs assessment questions v1.xlsx"
+#  load_args:
+#    sheet_name: "NA question mapping"
+#
+#raw_grp_regions:
+#  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+#  filepath: "data/groupings/regions.xlsx"
+#  load_args:
+#    sheet_name: "Sheet1"
+
+raw_grp_service_grouping:
+  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+  filepath: "data/groupings/Service groupings v5.xlsx"
+  load_args:
+    sheet_name: "Service groupings"
+
+#raw_grp_services_events_features:
+#  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+#  filepath: "data/groupings/Services and events features v4.xlsx"
+#  load_args:
+#    sheet_name: "Features"
+
+
+# intermediate
+
+
+
+int_services:
+  type: CsvLocalDataSet
+  filepath: "data/02_intermediate/int_services.csv"
+
+
+int_events:
+  type: CsvLocalDataSet
+  filepath: "data/02_intermediate/int_events.csv"
+
+
+
+#int_na_questions_lookup: (maybe)
+#  type: CsvLocalDataSet
+#  filepath: "data/02_intermediate/needs_assessment_question_lookup.csv"
+#
+#
+#int_na_responses: (maybe)
+#  type: CsvLocalDataSet
+#  filepath: "data/02_intermediate/needs_assessment_responses.csv"
+
+
+#int_service_groupings:
+#  type: project_irene.de_utils.xls_local.XlsLocalDataSet
+#  filepath: "data/Service groupings v4.xlsx"
+#  load_args:
+#    sheet_name: "Service groupings"
+
+
+# primary
+
+prm_aso:
+  type: CsvLocalDataSet
+  filepath: "data/03_primary/prm_aso.csv"
+  load_args:
+    parse_dates: ['assessment_date']
+
+prm_demographics:
+  type: CsvLocalDataSet
+  filepath: "data/03_primary/prm_demographics.csv"
+  load_args:
+    parse_dates: ['vr_date', 'aftercare_initiated_date', 'aftercare_closed_date']
+
+prm_services:
+  type: CsvLocalDataSet
+  filepath: "data/03_primary/prm_services.csv"
+  load_args:
+    parse_dates: ['contact_ready_date', 'due_date', 'need_assessed_date', 'service_met_date']
+
+prm_events:
+  type: CsvLocalDataSet
+  filepath: "data/03_primary/prm_events.csv"
+  load_args:
+    parse_dates: ['date_of_event', 'created_date']
+
+prm_input_events:
+  type: CsvLocalDataSet
+  filepath: "data/03_primary_input/events_sentiment_without_notes.csv"
+  load_args:
+    encoding: 'ISO-8859-1'
+
+prm_perpretators:
+  type: CsvLocalDataSet
+  filepath: "data/03_primary/prm_perpretators.csv"
+  load_args:
+    parse_dates: ['status_date']
+
+prm_target:
+  type: CsvLocalDataSet
+  filepath: "data/03_primary/prm_target.csv"
+
+
+# feature input
+
+ft_aso:
+  type: CsvLocalDataSet
+  filepath: "data/04_feature_input/aso_six_domains.csv"
+
+ft_clo_912d_AI:
+  type: CsvLocalDataSet
+  filepath: "data/04_feature_input/closure_scores/closure 912d_aftercare initiated date.csv"
+
+ft_clo_456d_AI:
+  type: CsvLocalDataSet
+  filepath: "data/04_feature_input/closure_scores/closure 456d_aftercare initiated date.csv"
+
+ft_clo_1278d_AI:
+  type: CsvLocalDataSet
+  filepath: "data/04_feature_input/closure_scores/closure 1278d_aftercare initiated date.csv"
+
+ft_clo_1460d_AI:
+  type: CsvLocalDataSet
+  filepath: "data/04_feature_input/closure_scores/closure 1460d_aftercare initiated date.csv"
+
+ft_journey_clusters:
+  type: CsvLocalDataSet
+  filepath: "data/04_feature_input/20190415_journey_clusters_all_case_types.csv"
+
+ft_demographics:
+  type: CsvLocalDataSet
+  filepath: "data/04_features/ft_demographics.csv"
+  load_args:
+    parse_dates: ['vr_date', 'aftercare_initiated_date', 'aftercare_closed_date']
+
+ft_services:
+  type: CsvLocalDataSet
+  filepath: "data/04_features/ft_services.csv"
+
+ft_events:
+  type: CsvLocalDataSet
+  filepath: "data/04_features/ft_events.csv"
+
+
+# model_input
+
+model_input:
+  type: CsvLocalDataSet
+  filepath: "data/05_model_input/model_input.csv"
+  load_args:
+    parse_dates: ['vr_date', 'aftercare_initiated_date', 'aftercare_closed_date' ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

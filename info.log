@@ -1,0 +1,15 @@
+2019-05-02 19:57:00,996 - anyconfig - INFO - Loading: /Users/anmisha_ramidi/Git/nobel_intelligence/GIG_data/project_irene/conf/base/logging.yaml
+2019-05-02 19:57:01,007 - anyconfig - INFO - Loading: /Users/anmisha_ramidi/Git/nobel_intelligence/GIG_data/project_irene/conf/base/catalog.yml
+2019-05-02 19:57:01,034 - anyconfig - INFO - Loading: /Users/anmisha_ramidi/Git/nobel_intelligence/GIG_data/project_irene/conf/base/parameters.yml
+2019-05-02 19:58:09,314 - anyconfig - INFO - Loading: /Users/anmisha_ramidi/Git/nobel_intelligence/GIG_data/project_irene/conf/base/logging.yaml
+2019-05-02 19:58:09,325 - anyconfig - INFO - Loading: /Users/anmisha_ramidi/Git/nobel_intelligence/GIG_data/project_irene/conf/base/catalog.yml
+2019-05-02 19:58:09,352 - anyconfig - INFO - Loading: /Users/anmisha_ramidi/Git/nobel_intelligence/GIG_data/project_irene/conf/base/parameters.yml
+2019-05-02 16:10:30,622 - anyconfig - INFO - Loading: /home/ncod/gig/conf/base/logging.yaml
+2019-05-02 16:10:30,631 - anyconfig - INFO - Loading: /home/ncod/gig/conf/base/catalog.yml
+2019-05-02 16:10:30,652 - anyconfig - INFO - Loading: /home/ncod/gig/conf/base/parameters.yml
+2019-05-02 16:27:02,948 - anyconfig - INFO - Loading: /home/ncod/gig/conf/base/logging.yaml
+2019-05-02 16:27:02,957 - anyconfig - INFO - Loading: /home/ncod/gig/conf/base/catalog.yml
+2019-05-02 16:27:02,978 - anyconfig - INFO - Loading: /home/ncod/gig/conf/base/parameters.yml
+2019-05-02 17:07:28,943 - anyconfig - INFO - Loading: /home/ncod/qb-gig-052019-lon-team1/conf/base/logging.yaml
+2019-05-02 17:07:28,952 - anyconfig - INFO - Loading: /home/ncod/qb-gig-052019-lon-team1/conf/base/catalog.yml
+2019-05-02 17:07:28,972 - anyconfig - INFO - Loading: /home/ncod/qb-gig-052019-lon-team1/conf/base/parameters.yml
