@@ -1,6 +1,6 @@
 
-data_src = "data/master.csv"
-source("data/master_col.r")
+data_src = "/home/ncod/qb-gig-052019-lon-team1/data/05_model_inpunt/model_input.csv"
+source("master_col.r")
 
 io_path = "/home/matthieu_v/tree_out/"
 
