@@ -1,9 +1,10 @@
 # Rely on the 'WorldPhones' dataset in the datasets
 # package (which generally comes preloaded).
 library(datasets)
+library(shinythemes)
 
 # Use a fluid Bootstrap layout
-fluidPage(
+fluidPage(theme = shinytheme("darkly"),titlePanel(title=div(img(src="Picture1.png")),"QB GIG - Team 1"),
 
   # Give the page a title
 

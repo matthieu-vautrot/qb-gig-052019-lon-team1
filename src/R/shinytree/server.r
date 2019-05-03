@@ -71,7 +71,7 @@ function(input, output, session) {
      rpart.plot(cart
                 , main = paste('Features impact on', tg_col, '(', nrow , 'rows ) -')
                 , extra = 101
-                , sub = paste('RMSE:', round(rmse, 2), 'R^2:', round(rsq, 4))
+                , sub = paste('RMSE:', round(rmse, 2), 'R^2:', round(rsq, 4),box.palette = "Blues")
      )
 
    })

@@ -1,9 +1,8 @@
 
-data_src = "/home/ncod/qb-gig-052019-lon-team1/data/05_model_inpunt/model_input.csv"
-data_src = "data/master.csv"
+data_src = "/Users/matthew_aaron_cooke/qb-gig-052019-lon-team1/data/05_model_input/model_input.csv"
+
 
 source("master_col.r")
-
 io_path = "/home/matthieu_v/tree_out/"
 
 options(shiny.host = "0.0.0.0")
